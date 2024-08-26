@@ -1,0 +1,6 @@
+order_id,customer_name,customer_email,product_id,price,quantity,total
+1,Kelly Olsen,jenniferschneider@example.com,20,166.89,1,166.89
+2,Miguel Moore,mccarthylee@example.net,14,171.63,8,1373.04
+3,Jessica White,wallacejesus@example.com,12,50.62,10,506.2
+4,Judith Wilcox,sgraham@example.net,17,109.68,9,987.12
+5,Andrew Welch,ncooper@example.org,20,21.83,3,65.49
